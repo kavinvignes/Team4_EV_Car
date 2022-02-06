@@ -5,7 +5,7 @@
 PS No.   |       Name       |
 ---------|------------------|
 40020494 | Kavin Vignes J K |
-40020509 | Karthikeyan S |
+40020509 | Karthikeyan Selvaraju |
 40020555 | Vidya Prasad |
 40020535 | Vishnu Prasath R K |
 40020577 | Akshay K C |
