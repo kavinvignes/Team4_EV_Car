@@ -13,7 +13,11 @@
 •	Huyndai kona has TCS, not in Tata Nexon.
 
 ## Suspension Performance:
-•	Both carss use very similar suspension setups.
+•	Hyundai kona has Independent MacPherson strut with coil spring and Tata nexon has McPherson Strut Type front suspension.
+
+• Hyundai kona has Twist beam with dual path Strut and Tata nexon has Multi-Link rear suspension.
+
+
 
 
 ## Design Specifications of our Hyundai Kona:
